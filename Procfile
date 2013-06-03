@@ -1,1 +1,1 @@
-web: bin/hubot -a irc2 -n provisobot
+web: bin/hubot -a irc -n provisobot
