@@ -25,8 +25,11 @@
 
   "dependencies": {
     "hubot":         ">= 2.5.1",
-    "hubot-irc":    ">= 0.0.1",
-    "hubot-logger":  ">= 0.0.1",
+    "hubot-irc":     ">= 0.0.1",
+    "redis":         ">= 0.0.1",
+    "moment":        ">= 0.0.1",
+    "connect":       ">= 0.0.1",
+    "connect_router": ">= 0.0.1",
     "hubot-scripts": ">= 2.4.2"
   },
 
