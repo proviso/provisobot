@@ -1,4 +1,3 @@
 [
-  "hubot-logger",
-  "hubot-irc2"
+  "hubot-logger"
 ]
