@@ -27,6 +27,7 @@
     "hubot":          ">= 2.5.1",
     "hubot-irc":      ">= 0.0.1",
     "redis":          ">=0.7.2",
+    "cradle":         ">= 0.5.8",
     "moment":         ">=1.7.0",
     "connect":        ">=2.4.5",
     "connect_router": "*",
