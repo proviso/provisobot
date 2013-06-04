@@ -1,4 +1,10 @@
 [
   "redis-brain.coffee",
+  "github-activity.coffee",
+  "github-commit-link.coffee",
+  "github-commits.coffee",
+  "github-issue-link.coffee",
+  "github-issues.coffee",
+  "github-pulls.coffee",
   "store-messages-couchdb.coffee"
 ]

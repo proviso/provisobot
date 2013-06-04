@@ -24,6 +24,7 @@
   },
 
   "dependencies": {
+    "githubot":       ">= 0.0.1",
     "hubot":          ">= 2.5.1",
     "hubot-irc":      ">= 0.0.1",
     "redis":          ">=0.7.2",
