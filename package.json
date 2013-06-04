@@ -24,13 +24,13 @@
   },
 
   "dependencies": {
-    "hubot":         ">= 2.5.1",
-    "hubot-irc":     ">= 0.0.1",
-    "redis":         ">= 0.0.1",
-    "moment":        ">= 0.0.1",
-    "connect":       ">= 0.0.1",
-    "connect_router": ">= 0.0.1",
-    "hubot-scripts": ">= 2.4.2"
+    "hubot":          ">= 2.5.1",
+    "hubot-irc":      ">= 0.0.1",
+    "redis":          ">=0.7.2",
+    "moment":         ">=1.7.0",
+    "connect":        ">=2.4.5",
+    "connect_router": "*",
+    "hubot-scripts":  ">= 2.4.2"
   },
 
   "engines": {
